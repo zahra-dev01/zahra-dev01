@@ -9,7 +9,7 @@
 <h3 align="center">
         <samp>🅾🅽🅴 🅶🅸🆁🅻</samp>
 </h3> 
- <div align="left"><h2><img src="https://camo.githubusercontent.com/1dfebc2e9839ae2ab59cea3d5a3cd01eb2aef1728222a394ea756daf5eaad2c6/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966" data-canonical-src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="50" height="50"; display: inline-block;" data-target="animated-image.originalImage"> 𝑨 𝒍𝒊𝒕𝒕𝒍𝒆 𝒂𝒃𝒐𝒖𝒕 𝒎𝒆:</h2></div>
+ <div align="left"><h2><img src="https://camo.githubusercontent.com/1dfebc2e9839ae2ab59cea3d5a3cd01eb2aef1728222a394ea756daf5eaad2c6/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966" data-canonical-src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="50" height="50"; display: inline-block;" data-target="animated-image.originalImage"> 𝑨 𝒍𝒊𝒕𝒕𝒍𝒆 𝒂𝒃𝒐𝒖𝒕 𝒎𝒆:</h2><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /></div>
  <p align="left"><i>- 🐸  I’m currently learning Django Framework<br>- 😐  I have a love/hate relationship with Programming<br>- 🧐  Love learning and solving problems<br>- 🌱  Logic | Coding | Artificial intelligence | Miracle | Creation | Self Confidence<br>- ❣  Pronouns: Coder, Leader and Kind Hearted<br>- 👀  I enjoy traveling and reading<br>- 🙄  and bla bla bla...</i></p><br>
    
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝒂𝒏𝒅 𝑻𝒐𝒐𝒍𝒔:    
