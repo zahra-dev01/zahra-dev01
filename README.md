@@ -1,45 +1,23 @@
-<div align="center"> <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, i'm Zahra! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></div>
-<br>
+<p align="center">
+<img src="https://camo.githubusercontent.com/5fc2195155816a18fa871af648a1ff0b3e3511f6fed7936aa4de581e6b6b47e5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736861726b266865696768743d33302673656374696f6e3d68656164657226726576657273616c3d66616c736526636f6c6f723d303a6235373964612c3130303a373964613766" data-canonical-src="https://capsule-render.vercel.app/api?type=shark&amp;height=30&amp;section=header&amp;reversal=false&amp;color=0:b579da,100:79da7f" style="max-width: 100%;">
+<div align="center"> <h1> 𝕙𝕖𝕪 𝕥𝕙𝕖𝕣𝕖, 𝕚'𝕞 ℤ𝕒𝕙𝕣𝕒 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1></div>
 
 <h3 align="center">
-        <samp> i'm Back-end web developer</samp>
+        <samp> i'm Back-end Web Developer</samp>
 </h3>  
+<img src="https://github.com/halfrost/halfrost/raw/master/icons/header_1.png" alt="" style="max-width: 100%;">
+<h3 align="center">
+        <samp>🅾🅽🅴 🅶🅸🆁🅻</samp>
+</h3> 
+ <div align="left"><h3><img src="https://camo.githubusercontent.com/1dfebc2e9839ae2ab59cea3d5a3cd01eb2aef1728222a394ea756daf5eaad2c6/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966" data-canonical-src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="50" height="50"; display: inline-block;" data-target="animated-image.originalImage"> 𝑨 𝒍𝒊𝒕𝒕𝒍𝒆 𝒂𝒃𝒐𝒖𝒕 𝒎𝒆:</h3></div>
+ <p align="left"><i>- 🐸  I’m currently learning Django Framework<br>- 😐  I have a love/hate relationship with Programming<br>- 🧐  Love learning and solving problems<br>- 🌱  Logic | Coding | Artificial intelligence | Miracle | Creation | Self Confidence<br>- ❣  Pronouns: Coder, Leader and Kind Hearted<br>- 👀  I enjoy traveling and reading<br>- 🙄  and bla bla bla...</i></p>
+<h3 align="left">𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝒂𝒏𝒅 𝑻𝒐𝒐𝒍𝒔:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> </p>
 
-  
-   
+<h3 align="left">𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝒎𝒆:</h3>
+<div align="left">
+<p align="left" <a href="www.linkedin.com/in/zahra-mohammadi79"><img src="https://camo.githubusercontent.com/6dc9828248fb64760c234f5b24c275a4912e9bb546c281d0c8e67cecb3381669/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a><a href="zahra.mirzamohammadi.dev@gmail.com">  <img src="https://camo.githubusercontent.com/4a21774b9d6abd72ff3f8f2abf20cb44d95ea2c8c19b273b9df62a33266d087e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a><img src="https://camo.githubusercontent.com/d5d04af9e59af2a3dbeb9b345cd8e795658cbc92dd9c634967359e224f787102/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d42596b58764c786b485a466d71424849432f67697068792e676966" height="40px" data-canonical-src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></div>
+<br>
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-   <img src="	https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg alt="css" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-   <img src= "https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_pycharm.svg" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/docker.svg" style="vertical-align:top; margin:4px">
-
-  
-  
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
- <p align="left"><i>about Me</i></p>  
-- 🌱 I’m currently learning **Django Framework**
-
-<h3 align="left">Connect with me:</h3>
-<p align='left'><a href="www.linkedin.com/in/zahra-mohammadi79">
-  <img height="30"src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahra-dev01&show_icons=true&locale=en&layout=compact" alt="zahra-dev01" /></p>
+<img src="https://camo.githubusercontent.com/af00da7952b7310ca2749d245177bb333a121f43d2eee2e52901c0d0903942ee/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736861726b266865696768743d33302673656374696f6e3d666f6f74657226726576657273616c3d66616c736526636f6c6f723d303a6235373964612c3130303a373964613766" data-canonical-src="https://capsule-render.vercel.app/api?type=shark&amp;height=30&amp;section=footer&amp;reversal=false&amp;color=0:b579da,100:79da7f" style="max-width: 100%;">
