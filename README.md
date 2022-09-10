@@ -3,7 +3,7 @@
 <div align="center"> <h1> 𝕙𝕖𝕪 𝕥𝕙𝕖𝕣𝕖, 𝕚'𝕞 ℤ𝕒𝕙𝕣𝕒 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1></div>
 
 <h3 align="center">
-        <samp> i'm Back-end Web Developer</samp>
+        <samp> i'm Back-end Developer</samp>
 </h3>  
 <img src="https://github.com/halfrost/halfrost/raw/master/icons/header_1.png" alt="" style="max-width: 100%;">
 <h3 align="center">
